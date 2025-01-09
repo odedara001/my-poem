@@ -4,7 +4,6 @@ like
 
 red
 green
-yellow
 white
 marun
 perple
